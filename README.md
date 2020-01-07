@@ -1,15 +1,15 @@
 # Hitman-FHD-Fix
 Hitman FHD Fix
 
-1.Go into Himan.ini file
+1.Change rendering device from Direct3D to OpenGL
 
-2.Change the values:
+2.Go into Himan.ini file
+
+3.Change the values:
 
 Resolution 1920x1020
 
-3.Add Values:
-
+4.Add Values:
 Window
-StartUpperPos 0,0
 
 All good!
