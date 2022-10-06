@@ -33,4 +33,4 @@ Window
 NVIDIA>Control Panel>Change Resolution to 60Hz
 
 All good!
-# Credit goes to gimalaji_blake
+# Credit goes to silentgamepls
